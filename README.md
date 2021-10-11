@@ -1,5 +1,5 @@
 # IoT-Project
-Smart Garden
+Smart Garden(2020 Fall)
 
 ## Objective:
 - 實現全自動智慧植物系統,讓使用者不用額外耗費心力。
